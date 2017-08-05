@@ -1,2 +1,3 @@
 *.html
-*.css
+README.md
+.gitignore
